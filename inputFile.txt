@@ -1,0 +1,5 @@
+iosci    console  Dec 15 10:57 
+iosci    ttys000  Dec 15 10:58 
+iosci    ttys002  Dec 16 12:51 
+脚本学习：输出重定向
+       3
